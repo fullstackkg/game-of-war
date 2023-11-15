@@ -81,4 +81,8 @@ button:disabled {
     body {
         font-size: 1.5rem;
     }
+
+    button {
+        color: black;
+    }
 }
